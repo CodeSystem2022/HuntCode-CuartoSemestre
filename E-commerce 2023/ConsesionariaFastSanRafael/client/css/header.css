@@ -62,6 +62,10 @@ header{
     font-size: 26px;
     z-index: 2;
     margin-right: 30px;
+    height: 5rem;
+    position: absolute; /* Cambia la posición según sea necesario */
+    top: 0; /* Ajusta la posición vertical */
+    right: 0;
 }
 
 #menu-mobile-icon-close {
