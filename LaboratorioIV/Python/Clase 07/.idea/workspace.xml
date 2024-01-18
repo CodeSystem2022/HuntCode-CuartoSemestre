@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="386359a3-713e-4fef-8d8b-dac669652354" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../lección01/doc_str.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lección01/mi_clsse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/Clase 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/capa_datos.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/conexion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/cursor_del_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/logger_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/usuario.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 1/capa_datos_usuario/usuario_dao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/Clase01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/Sistema_numeracion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/VALORES_INFINITOS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/tipo_bool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/tipo_float.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/tipo_nan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase 2/tipo_str.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +20,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Clase 07" />
